@@ -30,7 +30,9 @@ Generating all LOG files took about 30 second for my computer. The content of ea
 \
 \
 ![alt text](https://github.com/utkuKutkut/Coding-Exercise/blob/main/Screenshots/Screenshot%20from%202021-09-14%2019-53-22.png)
-
+\
+\
+Subnetting calculations were easy, I just had to remember some python syntax. Took about 3 hours for me to complete this task.
 
 # Exercise-2
 For the second exercise, I used JAVA since dealing with threads is more consistent. I ask the user to enter a number of threads for the producer and also for the consumer.\
@@ -43,7 +45,9 @@ Every time I create a thread, I call producer and consumer functions to execute.
 \
 \
 ![alt text](https://github.com/utkuKutkut/Coding-Exercise/blob/main/Screenshots/sc2.png)
-
+\
+\
+Since that problem is well known, it did not take much time for me. Getting the number of threads from users was tricky for me. Took a couple of hours for me to complete this task.
 
 
 
