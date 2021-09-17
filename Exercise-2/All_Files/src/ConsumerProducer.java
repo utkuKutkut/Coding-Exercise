@@ -34,8 +34,7 @@ public class ConsumerProducer {
 				}
 
 				int val = buffer.get(0);
-				buffer.remove(0);
-				index--;
+				buffer.remove(--index);
 				System.out.println("Consumer " + Thread.currentThread().getName() + " consumed:" + val);
 
 				notify();
