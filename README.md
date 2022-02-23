@@ -47,7 +47,6 @@ Every time I create a thread, I call producer and consumer functions to execute.
 ![alt text](https://github.com/utkuKutkut/Coding-Exercise/blob/main/Screenshots/sc2.png)
 \
 \
-Since that problem is well known, it did not take much time for me. Getting the number of threads from users was tricky for me. Took a couple of hours for me to complete this task.
 
 
 
