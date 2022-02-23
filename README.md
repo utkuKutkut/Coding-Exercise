@@ -1,5 +1,5 @@
 # Exercise-1
-For the first exercise, I have used 192.168.252.0 as a network ID and 192.168.255.255 as a broadcast IP. You can find a detailed explanation in the document:https://github.com/utkuKutkut/Coding-Exercise/blob/main/Exercise-1/Generator.pdf \
+For the first exercise, I have used 192.168.252.0 as a network ID and 192.168.255.255 as a broadcast IP. See: https://github.com/utkuKutkut/Coding-Exercise/blob/main/Exercise-1/Generator.pdf \
 Generate.sh file simply executes my python script with 1 command line argument which is the DATAPATH. All the server files will be written in this directory. In addition, I have named all files with their IP addresses. Each server generates its own LOG and writes the CPU usage of it's for 24 hours inside the file:
 \
 \
